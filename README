@@ -1,0 +1,3 @@
+This will be written in C#. The goal is to create a cookie-clicker type of mobile game, where every time the user clicks, they will increase a number on the screen,
+and can use this number to buy multipliers or other types of upgrades to get more of the number per click.
+This project will be written through VSCode, and is to be completed between 3/23 and 3/25.
